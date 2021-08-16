@@ -10,11 +10,11 @@ Fixar conceitos básicos de um projeto Angular, como a utilização do padrão _
 
 ## Stories
 
-☑ - Criar formulário reativo
-☑ - Criar serviços e tratamento de retorno da modal
-☑ - Listagem de resultados e melhoria de performance
-☐ - Finalizar o _CRUD_
-☐ - refatorar HTML para utilizar _html semantics_
+☑ - Criar formulário reativo<br>
+☑ - Criar serviços e tratamento de retorno da modal<br>
+☑ - Listagem de resultados e melhoria de performance<br>
+☐ - Finalizar o _CRUD_<br>
+☐ - refatorar HTML para utilizar _html semantics_<br>
 
 ## Instalação
 
