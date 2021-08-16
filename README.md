@@ -4,9 +4,21 @@ Esse curso foi feito para a plataforma [Digital Innovation One](https://digitali
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
 
+## Objetivos
+
+Fixar conceitos básicos de um projeto Angular, como a utilização do padrão _Singleton_ para criar _Services_, comunicação assíncrona com RxJS e _Observables<>_, componentização do layout, componentes material ui, injeção de dependência, scroll infinito, entre outros.
+
+## Stories
+
+☑ - Criar formulário reativo
+☑ - Criar serviços e tratamento de retorno da modal
+☑ - Listagem de resultados e melhoria de performance
+☐ - Finalizar o _CRUD_
+☐ - refatorar HTML para utilizar _html semantics_
+
 ## Instalação
 
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
+1. clone o repositório `git clone git@github.com:guilchaves/ng-filmes.git`
 2. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
