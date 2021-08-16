@@ -1,6 +1,6 @@
 # ng-Filmes
 
-Esse projeto foi construído para o Curso Intermediário de Angular da plataforma [Digital Innovation One](https://digitalinnovation.one/).
+Esse projeto foi construído para o Curso Intermediário de Angular da plataforma [Digital Innovation One](https://digitalinnovation.one/), ministrado pelo [Renan Bertoldo](https://github.com/RenanRB).
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
 
