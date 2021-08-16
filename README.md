@@ -1,8 +1,10 @@
-# Curso Intermediário de Angular - Digital Innovation One
+# ng-Filmes
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+Esse projeto foi construído para o Curso Intermediário de Angular da plataforma [Digital Innovation One](https://digitalinnovation.one/).
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos cursos de outros usuários.
+
+Esse projeto foi gerado via [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.5.
 
 ## Objetivos
 
