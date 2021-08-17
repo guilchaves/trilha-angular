@@ -13,7 +13,7 @@ Curso | Status Conclusão | Tempo | Projeto | Certificado
 ### Trilha Angular Developer - Digital Innovation One
 Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
-Intro ao Angular 8 | Concluído | 8 horas | - | [Certificado](https://certificates.digitalinnovation.one/E233E7C8)
+Intro ao Angular 8 | Concluído | 8 horas | [ng-cursos](https://github.com/guilchaves/ng-cursos/) | [Certificado](https://certificates.digitalinnovation.one/E233E7C8)
 Técnicas avançadas em Angular 8 | Concluído | 13 horas | [ng-filmes](https://github.com/guilchaves/ng-filmes) | [Certificado](https://certificates.digitalinnovation.one/5FD29CAC)
 Aplicações avançadas com Angular | Cursando | - | -
 Desenvolvendo SPA com Angular | A cursar | - | -
