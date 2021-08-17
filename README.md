@@ -6,7 +6,7 @@ O _tempo_ não se refere ao tempo de duração dos cursos nas plataformas, mas a
 ### Cursos gerais
 Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
-[Tour of Heroes](https://angular.io/tutorial) | Concluído | 1 dia | [ng-heroes](https://github.com/guilchaves/tour-of-heroes) | não possui
+[Tour of Heroes](https://angular.io/tutorial) | Concluído | 6 horas | [ng-heroes](https://github.com/guilchaves/tour-of-heroes) | não possui
 [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | A cursar | - | - | não possui
 
 
