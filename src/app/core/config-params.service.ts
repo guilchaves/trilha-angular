@@ -1,5 +1,5 @@
-import { HttpParams } from '@angular/common/http'
 import { Injectable } from '@angular/core'
+import { HttpParams } from '@angular/common/http'
 import { ConfigParams } from '../shared/models/config-params'
 
 @Injectable({

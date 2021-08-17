@@ -8,9 +8,10 @@ import { CadastroFilmesComponent } from './cadastro-filmes/cadastro-filmes.compo
 import { MaterialModule } from '../shared/material/material.module'
 import { ListagemFilmesComponent } from './listagem-filmes/listagem-filmes.component'
 import { CamposModule } from '../shared/components/campos/campos.module'
+import { VisualizarFilmesComponent } from './visualizar-filmes/visualizar-filmes.component'
 
 @NgModule({
   imports: [CommonModule, MaterialModule, ReactiveFormsModule, FormsModule, CamposModule, InfiniteScrollModule],
-  declarations: [CadastroFilmesComponent, ListagemFilmesComponent],
+  declarations: [CadastroFilmesComponent, ListagemFilmesComponent, VisualizarFilmesComponent],
 })
 export class FilmesModule {}

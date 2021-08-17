@@ -109,36 +109,6 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
-    },
-    {
-      "titulo": "Filme sem descrição e foto",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-16T03:00:00.000Z",
-      "descricao": "",
-      "nota": 10,
-      "urlIMDb": "",
-      "genero": "Romance",
-      "id": 12
-    },
-    {
-      "titulo": "Uncut Gems",
-      "urlFoto": "https://media.fstatic.com/slh8-16-rwKr6Doqvt8Rnt9wTUM=/290x478/smart/media/movies/covers/2019/09/EFJs4bgWsAIBe9O.jfif",
-      "dtLancamento": "2020-08-30T03:00:00.000Z",
-      "descricao": "With his debts mounting and angry collectors closing in, a fast-talking New York City jeweler risks everything in hope of staying afloat and alive.",
-      "nota": 7.4,
-      "urlIMDb": "https://www.imdb.com/title/tt5727208/",
-      "genero": "Drama",
-      "id": 13
-    },
-    {
-      "titulo": "teste",
-      "urlFoto": "",
-      "dtLancamento": "2021-08-04T03:00:00.000Z",
-      "descricao": "teste\nteste2\nteste3",
-      "nota": 5.5,
-      "urlIMDb": "",
-      "genero": "Ficção Científica",
-      "id": 14
     }
   ]
 }

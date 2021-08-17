@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core'
 import { FormBuilder, FormGroup } from '@angular/forms'
+import { Router } from '@angular/router'
 
 import { debounceTime } from 'rxjs/operators'
 
@@ -23,7 +24,7 @@ export class ListagemFilmesComponent implements OnInit {
   filtrosListagem: FormGroup
   generos: Array<string>
 
-  constructor(private filmesService: FilmesService, private fb: FormBuilder) {}
+  constructor(private filmesService: FilmesService, private fb: FormBuilder, private router: Router) {}
 
   ngOnInit(): void {
     this.filtrosListagem = this.fb.group({
@@ -51,6 +52,10 @@ export class ListagemFilmesComponent implements OnInit {
 
   onScroll(): void {
     this.listarFilmes()
+  }
+
+  abrir(id: number): void {
+    this.router.navigateByUrl('/filmes/' + id)
   }
 
   private listarFilmes(): void {
