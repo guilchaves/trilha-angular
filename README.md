@@ -16,7 +16,7 @@ Fixar conceitos básicos de um projeto Angular, como a utilização do padrão _
 ☑ - Criar serviços e tratamento de retorno da modal<br>
 ☑ - Listagem de resultados e melhoria de performance<br>
 ☑ - Finalizar o _CRUD_<br>
-☑ - Aplicar sintaxe SCSS
+☑ - Aplicar sintaxe SCSS <br>
 ☐ - refatorar HTML para utilizar _html semantics_<br>
 
 ## Instalação
