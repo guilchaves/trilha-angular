@@ -1,6 +1,6 @@
 # Trilha Angular
 
-Guia de referência dos cursos da Trilha _Angular Developer_ da [Digital Innovation One](https://web.digitalinnovation.one) e demais cursos e treinamentos referentes à _Angular_. Os cursos podem não possui projetos e/ou certificado.
+Guia de referência dos cursos da Trilha _Angular Developer_ da [Digital Innovation One](https://web.digitalinnovation.one) e demais cursos e treinamentos referentes à _Angular_. Os cursos podem não possuir projetos e/ou certificado.
 
 ### Cursos gerais
 Curso | Status Conclusão | Tempo | Projeto | Certificado
