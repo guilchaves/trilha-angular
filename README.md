@@ -15,7 +15,8 @@ Fixar conceitos básicos de um projeto Angular, como a utilização do padrão _
 ☑ - Criar formulário reativo<br>
 ☑ - Criar serviços e tratamento de retorno da modal<br>
 ☑ - Listagem de resultados e melhoria de performance<br>
-☐ - Finalizar o _CRUD_<br>
+☑ - Finalizar o _CRUD_<br>
+☑ - Aplicar sintaxe SCSS
 ☐ - refatorar HTML para utilizar _html semantics_<br>
 
 ## Instalação
