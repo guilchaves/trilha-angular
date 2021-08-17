@@ -3,10 +3,16 @@
 
 Guia de referência dos cursos da Trilha _Angular Developer_ da [Digital Innovation One](https://web.digitalinnovation.one) e demais cursos e treinamentos referentes à _Angular_.
 
-
+### Cursos gerais
 Curso | Status Conclusão | Tempo | Projeto | Certificado
----|----|---|----
-Tour of Heroes | Concluído | 1 dia | [ng-heroes](https://github.com/guilchaves/ng-filmes) | -
+---|----|---|----|----
+[Tour of Heroes](https://angular.io/tutorial) | Concluído | 1 dia | [ng-heroes](https://github.com/guilchaves/ng-filmes) | não possui
+[Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | A cursar | - | - | não possui
+
+
+### Trilha Angular Developer - Digital Innovation One
+Curso | Status Conclusão | Tempo | Projeto | Certificado
+---|----|---|----|----
 Intro ao Angular 8 | Concluído | 8 horas | - | [Certificado](https://certificates.digitalinnovation.one/E233E7C8)
 Técnicas avançadas em Angular 8 | Concluído | 13 horas | [ng-filmes](https://github.com/guilchaves/ng-filmes) | [Certificado](https://certificates.digitalinnovation.one/5FD29CAC)
 Aplicações avançadas com Angular | Cursando | - | -
