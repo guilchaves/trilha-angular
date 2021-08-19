@@ -17,7 +17,7 @@ Intro ao Angular 8 | Concluído | 8 horas | [ng-cursos](https://github.com/guilc
 Técnicas avançadas em Angular 8 | Concluído | 13 horas | [ng-filmes](https://github.com/guilchaves/ng-filmes) | [Certificado](https://certificates.digitalinnovation.one/5FD29CAC)
 Aplicações avançadas com Angular | Concluído | 9h |não possui| [Certificado](https://certificates.digitalinnovation.one/F449C649)
 Desenvolvendo SPA com Angular | A cursar | - | -
-Arquitetura Componentes | A cursar | - | -
+Arquitetura Componentes | Cursando | - | -
 Testes automatizados com Cypress | A cursar | - | -
 Projeto consultar previsão do tempo via API | A cursar | - | -
 Conceitos Avançados de performance e otimização | A cursar | - | -
