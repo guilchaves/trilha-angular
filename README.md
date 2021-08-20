@@ -1,7 +1,7 @@
 # ng-Basics
 Esse projeto foi construído durante palestra _Desenvolvendo SPA com Angular_ da plataforma [Digital Innovation One](https://digitalinnovation.one/), realizada pela [Camila Ribeiro](https://github.com/cahferreira93).
 
-O projeto consiste em componentes demonstrativos, com foco em fixar conceitos básicos do Angular.
+O projeto consiste em componentes demonstrativos, com foco em fixar conceitos básicos do Angular. **Não há um proposito além de ser um playground para testar conceitos e aprender Angular.**
 
 Esse projeto foi gerado via [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.29.
 
