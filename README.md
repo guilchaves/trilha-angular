@@ -1,27 +1,21 @@
-# SimpleSpa
+# ng-Basics
+Esse projeto foi construído durante palestra _Desenvolvendo SPA com Angular_ da plataforma [Digital Innovation One](https://digitalinnovation.one/), realizada pela [Camila Ribeiro](https://github.com/cahferreira93).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.29.
+O projeto consiste em componentes demonstrativos, com foco em fixar conceitos básicos do Angular.
 
-## Development server
+Esse projeto foi gerado via [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.29.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Objetivos
 
-## Code scaffolding
+Aplicar conceitos de data biding, event biding, diretivas e event emitter.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Instalação
 
-## Build
+1. clone o repositório `git clone git@github.com:guilchaves/ng-basics.git`
+2. Entre no projeto e instale as dependencias `npm install`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Ambiente Local
 
-## Running unit tests
+Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
