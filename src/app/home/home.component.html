@@ -1,0 +1,26 @@
+<div>
+  <spa-alunos [valorInicial]="valor"></spa-alunos>
+
+  <div class="action-control container">
+    <button mat-stroked-button color="primary" (click)="mudarValor()">Mudar Valor</button>
+    <button mat-stroked-button color="accent" (click)="reiniciarValor()">Reiniciar Valor</button>
+    <button mat-stroked-button (click)="exibirTabela()">Exibir Tabela</button>
+  </div>
+</div>
+
+<table *ngIf="exibeTabela">
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+    <th>E-mail</th>
+    <th>Curso</th>
+  </tr>
+  <tr *ngFor="let aluno of listaAlunos">
+    <td>{{ aluno.nome }}</td>
+    <td>{{ aluno.idade }}</td>
+    <td>{{ aluno.email }}</td>
+    <td>{{ aluno.curso }}</td>
+  </tr>
+</table>
+
+<spa-professores></spa-professores>
