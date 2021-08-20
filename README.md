@@ -7,7 +7,7 @@ O _tempo_ não se refere ao tempo de duração dos cursos nas plataformas, mas a
 Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
 [Tour of Heroes](https://angular.io/tutorial) | Concluído | 6 horas | [ng-heroes](https://github.com/guilchaves/tour-of-heroes) | não possui
-[Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | Cursando | - | [scss-tutorial](https://github.com/guilchaves/scss-tutorial) | não possui
+[Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | Cursando | - | [tutorial](https://github.com/guilchaves/scss-tutorial) / [final-project](https://github.com/guilchaves/scss-tutorial-project) | não possui
 
 
 ### Trilha Angular Developer - Digital Innovation One
