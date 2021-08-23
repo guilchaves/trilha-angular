@@ -1,6 +1,6 @@
 # NgCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.25.
+Esse projeto foi gerado usando [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.25.
 
 ## Development server
 
