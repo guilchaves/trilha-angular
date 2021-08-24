@@ -1,27 +1,47 @@
-# NgCourse
+# ng-Cursos
 
-Esse projeto foi gerado usando [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.25.
+Esse projeto foi construído para o curso Introdução ao Angular 8 da plataforma [Digital Innovation One](https://digitalinnovation.one/), ministrado pelo [
+Wesllhey Holanda](https://github.com/wesllhey).
 
-## Development server
+O curso consiste em um sistema de cursos, com a possibilidade de busca por filtragem, edição e exclusão dos cursos.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Esse projeto foi gerado via [Angular CLI]((https://github.com/angular/angular-cli) versão 8.3.18.
 
-## Code scaffolding
+## Objetivos
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Introdução ao Angular e seu fluxo de desenvolvimento. Introdução ao lyfecycle do Angular, componentes, interfaces, módulos, rotas, pipes, requisições HTTP e arquitetura de projeto básico.
+
+## Stories
+
+☑ - Criar componentes e construir o projeto<br>
+☑ - Criar componentes com atributos independentes<br>
+☑ - Tratar eventos com data binding<br>
+☑ - Transformar datas com Pipes<br>
+☑ - Trabalhar com formulários e templates<br>
+☑ - Proteger Rotas com Guards<br>
+☑ - Segregar responsabilidades<br>
+☐ - Refatorar rotas (RoutingModule)
+☑ - refatorar CSS para _SCSS_<br>
+☐ - refatorar HTML para utilizar _html semantics_<br>
+
+## Instalação
+
+1. clone o repositório `git@github.com:guilchaves/ng-cursos.git`
+2. Entre no projeto e instale as dependencias `npm install`
+3. Entre na pasta `src/assets/server` e instale as dependencias `npm install`
+
+## Ambiente local
+
+Execute `ng serve` para que o projeto suba localmente. Acesse a url `http://localhost:4200/`. O projeto já está com reload automático conforme as alterações que você realizar no código
+
+## Simulando o Backend
+
+Dentro da pasta `src/assets/server` execute o comando `node serve.js`.
+
+## Gerando componente
+
+Execute `ng generate component nome-do-componente` para criar um novo componente. Você também pode usuar `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Execute `ng build` para gerar o compilado do projeto. O projeto vai ser criado dentro do diretório `dist/`. Adicionar `--prod` junto comando de build para gerar minificado e pronto para o ambiente de produção.
