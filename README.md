@@ -20,7 +20,7 @@ Introdução ao Angular e seu fluxo de desenvolvimento. Introdução ao lyfecycl
 ☑ - Trabalhar com formulários e templates<br>
 ☑ - Proteger Rotas com Guards<br>
 ☑ - Segregar responsabilidades<br>
-☐ - Refatorar rotas (RoutingModule)
+☐ - Refatorar rotas (RoutingModule)<br>
 ☑ - refatorar CSS para _SCSS_<br>
 ☐ - refatorar HTML para utilizar _html semantics_<br>
 
