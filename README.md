@@ -5,7 +5,7 @@ Wesllhey Holanda](https://github.com/wesllhey).
 
 O curso consiste em um sistema de cursos, com a possibilidade de busca por filtragem, edição e exclusão dos cursos.
 
-Esse projeto foi gerado via [Angular CLI]((https://github.com/angular/angular-cli) versão 8.3.18.
+Esse projeto foi gerado via [Angular CLI](https://github.com/angular/angular-cli) versão 8.3.18.
 
 ## Objetivos
 
