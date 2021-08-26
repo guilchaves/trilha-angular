@@ -18,6 +18,6 @@ Técnicas avançadas em Angular 8 | Concluído | 13 horas | [ng-filmes](https://
 Aplicações avançadas com Angular | Concluído | 9h |não possui| [Certificado](https://certificates.digitalinnovation.one/F449C649)
 Desenvolvendo SPA com Angular | Cursando | - | [ng-basics](https://github.com/guilchaves/ng-basics) | [Certificado](https://certificates.digitalinnovation.one/5E648473)
 Arquitetura Componentes | Concluído | 3h | não possui | [Certificado](https://certificates.digitalinnovation.one/A1D6E369)
-Testes automatizados com Cypress | A cursar | 3h | não possui | [Certificado](https://certificates.digitalinnovation.one/2CE636AA)
+Testes automatizados com Cypress | Concluído | 3h | não possui | [Certificado](https://certificates.digitalinnovation.one/2CE636AA)
 Projeto consultar previsão do tempo via API | A cursar | - | -
 Conceitos Avançados de performance e otimização | A cursar | - | -
