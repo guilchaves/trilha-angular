@@ -16,8 +16,8 @@ Curso | Status Conclusão | Tempo | Projeto | Certificado
 Intro ao Angular 8 | Concluído | 8 horas | [ng-cursos](https://github.com/guilchaves/ng-cursos/) | [Certificado](https://certificates.digitalinnovation.one/E233E7C8)
 Técnicas avançadas em Angular 8 | Concluído | 13 horas | [ng-filmes](https://github.com/guilchaves/ng-filmes) | [Certificado](https://certificates.digitalinnovation.one/5FD29CAC)
 Aplicações avançadas com Angular | Concluído | 9h |não possui| [Certificado](https://certificates.digitalinnovation.one/F449C649)
-Desenvolvendo SPA com Angular | Cursando | - | [ng-basics](https://github.com/guilchaves/ng-basics) | [Certificado](https://certificates.digitalinnovation.one/5E648473)
+Desenvolvendo SPA com Angular | Concluído | 4h | [ng-basics](https://github.com/guilchaves/ng-basics) | [Certificado](https://certificates.digitalinnovation.one/5E648473)
 Arquitetura Componentes | Concluído | 3h | não possui | [Certificado](https://certificates.digitalinnovation.one/A1D6E369)
 Testes automatizados com Cypress | Concluído | 3h | não possui | [Certificado](https://certificates.digitalinnovation.one/2CE636AA)
 Projeto consultar previsão do tempo via API | A cursar | - | -
-Conceitos Avançados de performance e otimização | A cursar | - | -
+Conceitos Avançados de performance e otimização | Cursando | - | -
