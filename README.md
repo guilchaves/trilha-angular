@@ -1,4 +1,4 @@
-# JvWeather
+# ng-weather-app
 
 Esse projeto foi construído no lab Criando projeto para consultar a previsão do tempo via API da plataforma [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pelo [João Ghignatti](https://github.com/JGhignatti).
 
