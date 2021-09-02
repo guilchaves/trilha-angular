@@ -1,10 +1,12 @@
 # JvWeather
 
-Esse projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) versão 9.1.7
+Esse projeto foi construído no lab Criando projeto para consultar a previsão do tempo via API da plataforma [Digital Innovation One](https://web.digitalinnovation.one/), ministrado pelo [João Ghignatti](https://github.com/JGhignatti).
+
+Esse aplicativo foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 9.1.7.
 
 ## Instalação
 
-**Requerimentos**:
+**Requerimentos**:<br>
 Gerar uma API Key (gratuita) da [OpenWeatherMap](https://openweathermap.org/).
 
 **Passo-a-passo**
