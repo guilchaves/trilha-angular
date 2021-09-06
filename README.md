@@ -4,6 +4,19 @@ Esse projeto foi construído no lab Criando projeto para consultar a previsão d
 
 Esse aplicativo foi gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 9.1.7.
 
+## Stories
+
+☑ - Conectar com API<br>
+☑ - Setup NgRX<br>
+☑ - Criar Home State<br>
+☑ - Renderizar o clima de uma cidade<br>
+☑ - Constumir a store pelo Home <br>
+☐ - Adicionar component Bookmarks e funcionalidades<br>
+☐ - Adicionar component favoritos e funcionalidades<br>
+☐ - Adicionar router store<br>
+☐ - Adicionar typeahead de cidades para Home e Bookmarks<br>
+☐ - Adicionar Angular cdkm<br>
+
 ## Instalação
 
 **Requerimentos**:<br>
