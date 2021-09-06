@@ -19,5 +19,5 @@ Aplicações avançadas com Angular | Concluído | 9 horas |não possui| [Certif
 Desenvolvendo SPA com Angular | Concluído | 4 horas | [ng-basics](https://github.com/guilchaves/ng-basics) | [Certificado](https://certificates.digitalinnovation.one/5E648473)
 Arquitetura Componentes | Concluído | 3 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/A1D6E369)
 Testes automatizados com Cypress | Concluído | 3 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/2CE636AA)
-Projeto consultar previsão do tempo via API | A cursar | - | -
+Projeto consultar previsão do tempo via API | Cursando | - | [ng-weather](https://github.com/guilchaves/ng-weather-app) 
 Conceitos Avançados de performance e otimização | Concluído | 4 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/3915C97C)
