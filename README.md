@@ -8,9 +8,10 @@ Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
 [Tour of Heroes](https://angular.io/tutorial) | Concluído | 6 horas | [ng-heroes](https://github.com/guilchaves/tour-of-heroes) | não possui
 [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | Cursando | - | [tutorial](https://github.com/guilchaves/scss-tutorial) / [final-project](https://github.com/guilchaves/scss-tutorial-project) | não possui
+[Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) | Cursando | - | [ng-recipe-book](https://github.com/guilchaves/ng-recipe-book) | Certificado
 
 
-### Trilha Angular Developer - Digital Innovation One
+### Trilha Angular Developer - Digital Innovation One 
 Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
 Intro ao Angular 8 | Concluído | 8 horas | [ng-cursos](https://github.com/guilchaves/ng-cursos/) | [Certificado](https://certificates.digitalinnovation.one/E233E7C8)
@@ -19,5 +20,7 @@ Aplicações avançadas com Angular | Concluído | 9 horas |não possui| [Certif
 Desenvolvendo SPA com Angular | Concluído | 4 horas | [ng-basics](https://github.com/guilchaves/ng-basics) | [Certificado](https://certificates.digitalinnovation.one/5E648473)
 Arquitetura Componentes | Concluído | 3 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/A1D6E369)
 Testes automatizados com Cypress | Concluído | 3 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/2CE636AA)
-Projeto consultar previsão do tempo via API | Cursando | - | [ng-weather](https://github.com/guilchaves/ng-weather-app) 
+Projeto consultar previsão do tempo via API | Concluído | 12 horas | [ng-weather](https://github.com/guilchaves/ng-weather-app) | [Certificado](https://certificates.digitalinnovation.one/3E29A2FE)
 Conceitos Avançados de performance e otimização | Concluído | 4 horas | não possui | [Certificado](https://certificates.digitalinnovation.one/3915C97C)
+
+Certificado de conclusão: [Trilha Angular Developer](https://certificates.digitalinnovation.one/28E907D1)
