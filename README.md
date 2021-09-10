@@ -31,8 +31,8 @@ Certificado de conclusão: [Trilha Angular Developer](https://certificates.digit
 
 ### Pontos para fixar
 
-☑ - Directives
-☑ - Routing
+☑ - Directives<br>
+☑ - Routing<br>
 ☐ - Services & Observables (praticar mais)<br>
 ☐ - Material UI (praticar mais)<br>
 ☐ - NgRx (revisitar completamente)<br>
