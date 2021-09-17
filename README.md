@@ -37,7 +37,7 @@ Status | Section | Assignment | Repositório
 ---|---|---|---
 🚧 | Course project | - | [ng-recipe-book](https://github.com/guilchaves/ng-recipe-book)
 ☑ | Basics | 1.1 components | [acg-basics-components](https://github.com/guilchaves/acg-basics-components) 
-☐ | Basics | 1.2 databinding | acg-basics-databinding 
+☑ | Basics | 1.2 databinding | [acg-basics-databinding](https://github.com/guilchaves/acg-basics-databinding) 
 ☐ | Basics | 1.3 directives | acg-basics-directives 
 ☐ | Deep Dive Databinding | 5.1 databinding | acg-deep-dive-databinding
 ☐ | Deep Dive Directives | 7.1 directives | acg-deep-dive-directives
