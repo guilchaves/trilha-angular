@@ -12,7 +12,9 @@ Curso | Status Conclusão | Tempo | Projeto | Certificado
 ---|----|---|----|----
 [Tour of Heroes](https://angular.io/tutorial) | Concluído | 6 horas | [ng-heroes](https://github.com/guilchaves/tour-of-heroes) | não possui
 [Sass Tutorial for Beginners](https://www.youtube.com/watch?v=_a5j7KoflTs) | Cursando | - | [tutorial](https://github.com/guilchaves/scss-tutorial) / [final-project](https://github.com/guilchaves/scss-tutorial-project) | não possui
-[Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2) | Cursando | - | [ng-recipe-book](https://github.com/guilchaves/ng-recipe-book) | Certificado
+[Angular - The Complete Guide](https://www.udemy.com/course/the-complete-guide-to-angular-2)* | Cursando | - | [ng-recipe-book](https://github.com/guilchaves/ng-recipe-book) | Certificado
+
+ _*_ Os exercícios realizados no curso estão sendo adicionados na tabela _Angular: The Complete Guide_. 
 
 
 ### Trilha Angular Developer - Digital Innovation One 
@@ -29,6 +31,18 @@ Conceitos Avançados de performance e otimização | Concluído | 4 horas | não
 
 Certificado de conclusão: [Trilha Angular Developer](https://certificates.digitalinnovation.one/28E907D1)
 
+### Angular: The Complete Guide - Academind / Udemy
+
+Status | Section | Assignment | Repositório
+---|---|---|---
+☐ | Course project | - | [ng-recipe-book](https://github.com/guilchaves/ng-recipe-book)
+☐ | Basics | 1.1 components | ng-basics-components 
+☐ | Basics | 1.2 databinding | ng-basics-databinding 
+☐ | Basics | 1.3 directives | ng-basics-directives 
+☐ | Deep Dive Databinding | 5.1 databinding | ng-deep-dive-databinding
+☐ | Deep Dive Directives | 7.1 directives | ng-deep-dive-directives
+
+***
 ### Pontos para fixar
 
 ☑ - Directives (praticar mais)<br>
