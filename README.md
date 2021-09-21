@@ -40,7 +40,7 @@ Status | Section | Assignment | Repositório
 ☑ | Basics | 1.2 databinding | [acg-basics-databinding](https://github.com/guilchaves/acg-basics-databinding) 
 ☑ | Basics | 1.3 directives | [acg-basics-directives](https://github.com/guilchaves/acg-basics-directives) 
 ☑ | Deep Dive Databinding | 5.1 databinding | [acg-deep-dive-databinding](https://github.com/guilchaves/acg-dd-prop-event-binding)
-☐ | Deep Dive Directives | 7.1 directives | acg-deep-dive-directives
+☐ | Deep Dive Directives | 7.1 directives | [acg-deep-dive-directives](https://github.com/guilchaves/acg-deep-dive-directives)
 
 ***
 ### Pontos para fixar
