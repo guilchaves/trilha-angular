@@ -56,4 +56,4 @@ Status | Section | Assignment | Repositório
 ☐ - NgRx (revisitar completamente)<br>
 
 
-_Esse guia é uma referência pessoal e não possui a pretenção de se mostrar um caminho ou trilha ideal a ser seguido para um terceiro aprender Angular._
+_Esse guia é uma referência pessoal e não possui a pretenção de se mostrar um caminho ou trilha ideal a ser seguido para aprender Angular._
