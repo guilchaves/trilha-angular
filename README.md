@@ -47,9 +47,11 @@ Status | Section | Assignment | Repositório
 ***
 ### Pontos para fixar
 
+☑ - Components (praticar mais)<br>
 ☑ - Directives (praticar mais)<br>
 ☑ - Routing (praticar mais)<br>
-☐ - Services & Observables (praticar mais)<br>
+☐ - Services (praticar mais) <br>
+☐ - Observables (praticar mais)<br>
 ☐ - Material UI (praticar mais)<br>
 ☐ - NgRx (revisitar completamente)<br>
 
