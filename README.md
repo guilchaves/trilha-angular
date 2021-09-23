@@ -41,7 +41,7 @@ Status | Section | Assignment | Repositório
 ☑ | Basics | 1.3 directives | [acg-basics-directives](https://github.com/guilchaves/acg-basics-directives) 
 ☑ | Deep Dive Databinding | 5.1 databinding | [acg-deep-dive-databinding](https://github.com/guilchaves/acg-dd-prop-event-binding)
 ☑ | Deep Dive Directives | 7.1 directives | [acg-deep-dive-directives](https://github.com/guilchaves/acg-deep-dive-directives)
-☐ | Services & Dep. Injection | 9.1 services | [agc-using-services](https://github.com/guilchaves/agc-using-services)
+☑ | Services & Dep. Injection | 9.1 services | [agc-using-services](https://github.com/guilchaves/agc-using-services)
 ☐ | Services & Dep. Injection | 9.2 services | agc-practice-services
 
 ***
