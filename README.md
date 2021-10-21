@@ -43,7 +43,7 @@ Status | Section | Assignment | Repositório
 ☑ | Deep Dive Directives | 7.1 directives | [acg-deep-dive-directives](https://github.com/guilchaves/acg-deep-dive-directives)
 ☑ | Services & Dep. Injection | 9.1 services | [agc-using-services](https://github.com/guilchaves/agc-using-services)
 ☑ | Services & Dep. Injection | 9.2 services | [agc-practice-services](https://github.com/guilchaves/agc-practice-services)
-☐ | Routing | 11.1 routing | [agc-using-routing](https://github.com/guilchaves/agc-using-routing) 
+☑ | Routing | 11.1 routing | [agc-using-routing](https://github.com/guilchaves/agc-using-routing) 
 ☐ | Observables | 13.1 observables | agc-using-observables
 ☐ | Handling Forms | 15.1 forms | agc-using-forms
 ☐ | Handling Forms | 15.7 forms | agc-practicing-forms
@@ -56,7 +56,8 @@ Status | Section | Assignment | Repositório
 ☑ - Components (praticar mais)<br>
 ☑ - Directives (praticar mais)<br>
 ☑ - Routing (praticar mais)<br>
-☐ - Services (praticar mais) <br>
+☐ - Routing Guards (praticar mais) <br>
+☑ - Services (praticar mais) <br>
 ☐ - Observables (praticar mais)<br>
 ☐ - Material UI (praticar mais)<br>
 ☐ - NgRx (revisitar completamente)<br>
