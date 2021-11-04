@@ -45,7 +45,6 @@ Status | Section | Assignment | Repositório
 ☑ | Services & Dep. Injection | 9.2 services | [agc-practice-services](https://github.com/guilchaves/agc-practice-services)
 ☑ | Routing | 11.1 routing | [agc-using-routing](https://github.com/guilchaves/agc-using-routing) 
 ☑ | Observables | 13.1 observables | [agc-using-observables](https://github.com/guilchaves/agc-using-observables)
-☐ | Observables | 13.2 observables | [agc-using-obs-subjects](https://github.com/guilchaves/agc-using-obs-subjects)
 ☐ | Handling Forms | 15.1 forms | agc-using-forms
 ☐ | Handling Forms | 15.7 forms | agc-practicing-forms
 
