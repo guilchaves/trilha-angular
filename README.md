@@ -58,7 +58,9 @@ Status | Section | Assignment | Repositório
 ☑ - Routing (praticar mais)<br>
 ☐ - Routing Guards (praticar mais) <br>
 ☑ - Services (praticar mais) <br>
-☐ - Observables (praticar mais)<br>
+☑ - Observables (praticar mais)<br>
+☐ - Forms (praticar mais)<br>
+☐ - Http Request (praticar mais)<br>
 ☐ - Material UI (praticar mais)<br>
 ☐ - NgRx (revisitar completamente)<br>
 
