@@ -45,9 +45,10 @@ Status | Section | Assignment | Repositório
 ☑ | Services & Dep. Injection | 9.2 services | [agc-practice-services](https://github.com/guilchaves/agc-practice-services)
 ☑ | Routing | 11.1 routing | [agc-using-routing](https://github.com/guilchaves/agc-using-routing) 
 ☑ | Observables | 13.1 observables | [agc-using-observables](https://github.com/guilchaves/agc-using-observables)
-☐ | Handling Forms | 15.1 forms | [agc-using-td-forms](https://github.com/guilchaves/agc-using-td-forms)
+☑ | Handling Forms | 15.1 forms | [agc-using-td-forms](https://github.com/guilchaves/agc-using-td-forms)
 ☐ | Handling Forms | 15.7 forms | agc-practicing-td-forms
-
+☐ | Handling Forms | 15.7 forms | agc-using-rx-forms
+☐ | Handling Forms | 15.7 forms | agc-practicing-rx-forms
 
 
 ***
