@@ -47,7 +47,7 @@ Status | Section | Assignment | Repositório
 ☑ | Observables | 13.1 observables | [agc-using-observables](https://github.com/guilchaves/agc-using-observables)
 ☑ | Handling Forms | 15.1 forms | [agc-using-td-forms](https://github.com/guilchaves/agc-using-td-forms)
 ☑ | Handling Forms | 15.7 forms | [agc-practice-td-forms](https://github.com/guilchaves/agc-practice-td-forms)
-☐ | Handling Forms | 15.7 forms | agc-using-rx-forms
+☐ | Handling Forms | 15.7 forms | [agc-using-rx-forms](https://github.com/guilchaves/agc-using-rx-forms)
 ☐ | Handling Forms | 15.7 forms | agc-practicing-rx-forms
 
 
