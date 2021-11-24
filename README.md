@@ -49,6 +49,7 @@ Status | Section | Assignment | Repositório
 ☑ | Handling Forms | 15.7 forms | [agc-practice-td-forms](https://github.com/guilchaves/agc-practice-td-forms)
 ☐ | Handling Forms | 15.7 forms | [agc-using-rx-forms](https://github.com/guilchaves/agc-using-rx-forms)
 ☐ | Handling Forms | 15.7 forms | agc-practicing-rx-forms
+☐ | Pipes | 17.1 pipes | agc-practicing-pipes
 
 
 ***
