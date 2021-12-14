@@ -66,6 +66,7 @@ Status | Section | Assignment | Repositório
 ☑ - Observables (praticar mais)<br>
 ☐ - Forms (praticar mais)<br>
 ☐ - Http Request (praticar mais)<br>
+☐ - Authentication (praticar mais)<br>
 ☐ - Material UI (praticar mais)<br>
 ☐ - NgRx (revisitar completamente)<br>
 
