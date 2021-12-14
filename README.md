@@ -51,7 +51,9 @@ Status | Section | Assignment | Repositório
 ☐ | Handling Forms | 15.7 forms | agc-practicing-rx-forms
 ☑ | Pipes | 17.1 pipes | [agc-using-pipes](https://github.com/guilchaves/agc-using-pipes)
 ☑ | Pipes | 17.8 pipes | [agc-practicing-pipes](https://github.com/guilchaves/agc-practicing-pipes)
-☐ | Http Request | 18.1 request | [agc-using-requests](https://github.com/guilchaves/agc-using-requests)
+☑ | Http Request | 18.1 request | [agc-using-requests](https://github.com/guilchaves/agc-using-requests)
+☐ | Auth & Route Protection | 20.1 auth | [agc-using-auth](https://github.com/guilchaves/agc-using-auth)
+
 
 ***
 ### Pontos para fixar
